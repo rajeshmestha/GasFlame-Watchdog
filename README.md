@@ -32,7 +32,7 @@
 
 ## 📸 Project Preview
 
-[GasFlame Watchdog setup](![Image](https://github.com/user-attachments/assets/6ca05a88-f5c6-4d06-a3f5-3799e5a10924))
+[GasFlame Watchdog setup]![Image](https://github.com/user-attachments/assets/6ca05a88-f5c6-4d06-a3f5-3799e5a10924)
 
 ---
 
