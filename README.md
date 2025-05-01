@@ -76,7 +76,7 @@ You can adjust these values based on your environment or sensor sensitivity.
 
 ## 📷 Screenshots
 
-![image]()
+[Gas Detected]![Image](https://github.com/user-attachments/assets/bb870dab-2540-43f4-974a-b626edfcbb49)
 
 ---
 
