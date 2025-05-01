@@ -78,6 +78,7 @@ You can adjust these values based on your environment or sensor sensitivity.
 
 [All Safe]![Image](https://github.com/user-attachments/assets/3ae82b27-c5a1-4679-a3b2-2ae8eb90c639)
 [Gas Detected]![Image](https://github.com/user-attachments/assets/bb870dab-2540-43f4-974a-b626edfcbb49)
+[Flame Detected]![Image](https://github.com/user-attachments/assets/df7dbad7-5fdb-446d-9a47-4560db48f490)
 
 
 ---
